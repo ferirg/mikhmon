@@ -1,0 +1,3 @@
+<?php if(substr($_SERVER["REQUEST_URI"], -10) == "config.php"){header("Location:./");}; 
+$data['mikhmon'] = array ('1'=>'mikhmon<|<mikhmon','mikhmon>|>aWNlbA==');
+$data['RGHotspot'] = array ('1'=>'RGHotspot!10.10.25.1','RGHotspot@|@#RG-Admin','RGHotspot#|#W3ebsF50mZ+ZnaVfjJalrJakaWZy','RGHotspot%RG-Hotspot','RGHotspot^roog.online','RGHotspot&Rp','RGHotspot*','RGHotspot(','RGHotspot)','RGHotspot=30','RGHotspot@!@enable','RGHotspot#!#');
